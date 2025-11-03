@@ -1,0 +1,14 @@
+{
+  "https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_modern.json": {
+    "etag": "W/\"289cf36b7b25247b80e50876b69e6daaf28ff2e1feed9620e80e5229e84b139e\"",
+    "lastModified": null
+  },
+  "https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_plus.json": {
+    "etag": "W/\"12c2cccd65ce6f0b39c796577e66e7f4b2d41413cd174f389544b4bd057a4735\"",
+    "lastModified": null
+  },
+  "https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_vs.json": {
+    "etag": "W/\"f521c8d205c9038b3cbc94631c156fecd516a0a1e7b0a9d6a104984befcb0306\"",
+    "lastModified": null
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "vscode-dark-modern",
+  "displayName": "VSCode Dark Modern",
+  "description": "Exact clone of VSCode's Dark Modern theme.",
+  "publisher": "osman",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "vscode-dark-modern",
+        "label": "VSCode Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_modern.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "undici": "^7.16.0"
+  }
+}
